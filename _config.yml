@@ -1,4 +1,5 @@
-title: My Awesome Site
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-seo-tag
+title: Dinky theme
+description: Dinky is a red hot theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-dinky
